@@ -1,0 +1,5 @@
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+myvar2 = "John"
